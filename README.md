@@ -1,3 +1,5 @@
+copy from https://github.com/blinkawan/Optimistic-Locking-JDBC-Sample.git
+
 Optimistic Locking JDBC Sample
 ==============================
 Contoh Implementasi Optimistic Locking pada JDBC.  
